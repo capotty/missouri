@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-01-15T23:07:24+00:00</lastmod>
+		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -20,107 +20,107 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/about/</loc>
-		<lastmod>2025-01-15T23:45:08+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/webb-city/</loc>
-		<lastmod>2025-01-15T23:43:58+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/liberty/</loc>
-		<lastmod>2025-01-15T23:43:57+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/kirksville/</loc>
-		<lastmod>2025-01-15T23:43:57+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/university-city/</loc>
-		<lastmod>2025-01-15T23:43:56+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/hannibal/</loc>
-		<lastmod>2025-01-15T23:43:56+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/joplin/</loc>
-		<lastmod>2025-01-15T23:43:55+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/raytown/</loc>
-		<lastmod>2025-01-15T23:43:55+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/chesterfield/</loc>
-		<lastmod>2025-01-15T23:43:54+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/cape-girardeau/</loc>
-		<lastmod>2025-01-15T23:43:54+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/jefferson-city/</loc>
-		<lastmod>2025-01-15T23:43:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/blue-springs/</loc>
-		<lastmod>2025-01-15T23:43:52+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/st-charles/</loc>
-		<lastmod>2025-01-15T23:43:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/st-joseph/</loc>
-		<lastmod>2025-01-15T23:43:51+00:00</lastmod>
+		<lastmod>2025-02-05T22:56:22+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/lees-summit/</loc>
-		<lastmod>2025-01-15T23:43:50+00:00</lastmod>
+		<lastmod>2025-02-05T22:56:21+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/ofallon/</loc>
-		<lastmod>2025-01-15T23:43:50+00:00</lastmod>
+		<lastmod>2025-02-05T22:56:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/columbia/</loc>
-		<lastmod>2025-01-15T23:43:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/independence/</loc>
-		<lastmod>2025-01-15T23:43:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/st-louis/</loc>
-		<lastmod>2025-01-15T23:43:48+00:00</lastmod>
+		<loc>/st-joseph/</loc>
+		<lastmod>2025-02-05T22:56:21+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/springfield/</loc>
-		<lastmod>2025-01-15T23:43:48+00:00</lastmod>
+		<lastmod>2025-02-05T22:56:20+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/columbia/</loc>
+		<lastmod>2025-02-05T22:56:20+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/webb-city/</loc>
+		<lastmod>2025-02-05T22:56:20+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/independence/</loc>
+		<lastmod>2025-02-05T22:56:20+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/kirksville/</loc>
+		<lastmod>2025-02-05T22:56:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/st-louis/</loc>
+		<lastmod>2025-02-05T22:56:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/liberty/</loc>
+		<lastmod>2025-02-05T22:56:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/joplin/</loc>
+		<lastmod>2025-02-05T22:56:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/raytown/</loc>
+		<lastmod>2025-02-05T22:56:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/university-city/</loc>
+		<lastmod>2025-02-05T22:56:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/hannibal/</loc>
+		<lastmod>2025-02-05T22:56:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/jefferson-city/</loc>
+		<lastmod>2025-02-05T22:56:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/chesterfield/</loc>
+		<lastmod>2025-02-05T22:56:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/cape-girardeau/</loc>
+		<lastmod>2025-02-05T22:56:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/blue-springs/</loc>
+		<lastmod>2025-02-05T22:56:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/kansas-city/</loc>
-		<lastmod>2025-01-15T23:43:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/privacy-policy/</loc>
-		<lastmod>2025-01-15T23:29:49+00:00</lastmod>
+		<lastmod>2025-02-05T22:56:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
-		<lastmod>2025-01-15T23:24:55+00:00</lastmod>
+		<lastmod>2025-02-05T22:32:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/find-a-container/</loc>
-		<lastmod>2025-01-15T22:12:21+00:00</lastmod>
+		<lastmod>2025-02-05T22:17:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/cropped-ph-shipping-container-duotone.png</image:loc>
 		</image:image>
 	</url>
 	<url>
+		<loc>/about/</loc>
+		<lastmod>2025-02-05T22:04:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/privacy-policy/</loc>
+		<lastmod>2025-02-05T22:00:14+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/thank-you/</loc>
-		<lastmod>2024-11-14T18:54:26+00:00</lastmod>
+		<lastmod>2025-02-05T21:59:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/cropped-ph-shipping-container-duotone.png</image:loc>
 		</image:image>
